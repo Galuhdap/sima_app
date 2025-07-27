@@ -1,20 +1,21 @@
-import 'package:flutter/material.dart';
-import 'package:inventory_app/pages/splash_page.dart';
-import 'pages/login_page.dart';
-import 'package:inventory_app/pages/settings_page.dart';
-import 'controllers/theme_controller.dart';
-import 'package:inventory_app/pages/faq_page.dart';
-import 'package:inventory_app/pages/tentang_aplikasi_page.dart';
-import 'package:inventory_app/pages/ganti_password_page.dart';
-import 'pages/history_page.dart';
+import 'package:inventory_app/pages/admin_page.dart';
 import 'package:inventory_app/pages/data_barang_page.dart';
 import 'package:inventory_app/pages/data_santri_page.dart';
-import 'package:inventory_app/pages/profile_page.dart';
+import 'package:inventory_app/pages/faq_page.dart';
+import 'package:inventory_app/pages/ganti_password_page.dart';
 import 'package:inventory_app/pages/laporan_page.dart';
+import 'package:inventory_app/pages/profile_page.dart';
+import 'package:inventory_app/pages/settings_page.dart';
+import 'package:inventory_app/pages/splash_page.dart';
+import 'package:inventory_app/pages/tentang_aplikasi_page.dart';
+import 'package:inventory_app/pages/user_page.dart';
+
+import 'pages/login_page.dart';
+import 'controllers/theme_controller.dart';
+import 'pages/history_page.dart';
 import 'pages/forgot_password_page.dart';
 import 'pages/register_page.dart';
-import 'package:inventory_app/pages/admin_page.dart';
-import 'package:inventory_app/pages/user_page.dart';
+import 'package:flutter/material.dart';
 
 
 void main() {
